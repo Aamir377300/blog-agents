@@ -2,8 +2,6 @@
 
 A system where **4 AI agents work together** to automatically write a full blog post for you — just give it a topic and it does the rest.
 
-> No AI experience needed. If you know basic Python, you can run this.
-
 ---
 
 ## What Does This Actually Do?
